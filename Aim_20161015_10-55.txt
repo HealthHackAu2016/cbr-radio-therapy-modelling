@@ -1,0 +1,14 @@
+Team - X:
+
+ROI -> Regions of Interest
+
+Aim:
+Broad aim: convert CT dicom structure sets (ROI) into 3D objects that can be visulaised as surfaces
+
+
+* Object representation of ROIs in dicom co-ordinate system
+* Surface rendering of ROIS (Lung L1, Lung R1, Target, etc)
+* See dose in each ROI
+* Turn on/off each ROI when visualising
+* If target dose changes, what does the dose look like to the other ROIs?
+* nominate centre of rotation for 3D datasets
